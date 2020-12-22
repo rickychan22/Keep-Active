@@ -28,19 +28,19 @@ def auto_move():
 	while switch:
 		print(switch)
 		print(pyautogui.position())
-		pyautogui.moveTo(766,376,duration = 1)
+		pyautogui.moveTo(666,276,duration = 1)
 		print(pyautogui.position())
 		time.sleep(10)
 
-		pyautogui.moveTo(927, 372, duration = 1)
+		pyautogui.moveTo(1127, 272, duration = 1)
 		print(pyautogui.position())
 		time.sleep(10)
 
-		pyautogui.moveTo(936, 531, duration = 1) 
+		pyautogui.moveTo(1136, 531, duration = 1) 
 		print(pyautogui.position())
 		time.sleep(10)
 
-		pyautogui.moveTo(760, 518, duration = 1) 
+		pyautogui.moveTo(660, 518, duration = 1) 
 		print(pyautogui.position())
 		time.sleep(10)
 
